@@ -100,7 +100,7 @@ Source: www.tycoelectronics.com .. ENG_DS_1654001_1099_RJ_L_0507.pdf</descriptio
 </package>
 </packages>
 <symbols>
-<symbol name="RBOT_RJ45_JACK8">
+<symbol name="RBOT_RJ45">
 <wire x1="1.524" y1="8.128" x2="0" y2="8.128" width="0.254" layer="94"/>
 <wire x1="0" y1="8.128" x2="0" y2="7.112" width="0.254" layer="94"/>
 <wire x1="0" y1="7.112" x2="1.524" y2="7.112" width="0.254" layer="94"/>
